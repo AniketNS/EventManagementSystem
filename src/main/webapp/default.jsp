@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 pageEncoding="UTF-8"%>
 
-<main class="bg-gray-50 mt-16 mb-16">
+<main class="bg-gray-100 mt-16 mb-16">
     <section id="welcome" class="py-12 px-6">
         <div class="container mx-auto">
             <div class="mb-8 text-center">
@@ -32,7 +32,7 @@ pageEncoding="UTF-8"%>
       <div class="bg-white rounded-lg shadow-md p-6">
         <p class="text-lg text-gray-800 mb-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum aliquet mauris, a eleifend justo semper a. Nullam sed urna eget neque venenatis volutpat vel vel ex.</p>
         <div class="flex justify-center mt-6">
-<a href="#" class="bg-gray-800 text-white hover:bg-white hover:text-black font-bold py-2 px-4 rounded">Sign Up Now</a>
+<a href="index.jsp?page=register" class="bg-gray-800 text-white hover:bg-white hover:text-black font-bold py-2 px-4 rounded">Sign Up Now</a>
         </div>
       </div>
     </div>
