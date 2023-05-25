@@ -19,7 +19,6 @@
                     <ul class="flex items-center space-x-4">
                         <li><a href="index.jsp" class="text-gray-500 hover:text-gray-800">Home</a></li>
                         <li><a href="index.jsp?page=about" class="text-gray-500 hover:text-gray-800">About</a></li>
-                        <li><a href="#" class="text-gray-500 hover:text-gray-800">Services</a></li>
                         <li><a href="index.jsp?page=contact" class="text-gray-500 hover:text-gray-800">Contact</a></li>
                         <li><a href="index.jsp?page=register" class="text-gray-500 hover:text-gray-800">Register</a></li>
                         <li><a href="index.jsp?page=login" class="text-gray-500 hover:text-gray-800">Login</a></li>
