@@ -1,9 +1,10 @@
 <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
   <div class="px-4 py-1 sm:px-0 flex justify-end">
-    <button class="bg-gray-800 text-white hover:bg-white hover:text-black font-bold py-2 px-4 rounded">
+    <a href="index.jsp?page=createEvent" class="bg-gray-800 text-white hover:bg-white hover:text-black font-bold py-2 px-4 rounded">
       Add Event
-    </button>
+    </a>
   </div>
+</div>
   <div class="px-4 py-1 sm:px-0">
     <!-- Rest of the code here -->
   </div>
