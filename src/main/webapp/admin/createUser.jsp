@@ -15,6 +15,7 @@
     <div class="mb-4">
       <label for="role" class="block text-gray-700 text-sm font-medium mb-2">Role</label>
       <select id="role" name="role" class="border-2 border-gray-300 p-2 w-full rounded" required>
+      	<option value="">Select Role</option>
         <option value="Admin">Admin</option>
         <option value="Organizer">Organizer</option>
         <option value="Participant">Participant</option>
