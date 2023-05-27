@@ -4,7 +4,7 @@
   <section id="register" class="py-8 px-6">
     <div class="container mx-auto">
       <h2 class="text-3xl font-bold text-center mb-6">Register</h2>
-      <form class="max-w-lg mx-auto border border-gray-300 rounded-lg p-8 shadow-md" method="post" action="register.jsp"> <!-- Added method and action attributes -->
+      <form class="max-w-lg mx-auto border border-gray-300 rounded-lg p-8 shadow-md" method="post" action="register"> <!-- Added method and action attributes -->
         <div class="mb-4">
           <label for="name" class="block text-gray-700 font-bold mb-2">Full Name</label>
           <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
